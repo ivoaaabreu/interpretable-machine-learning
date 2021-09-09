@@ -1,5 +1,5 @@
 link: https://app-twitt-explainer.herokuapp.com
-app make with flask, and a classifier SVM with 78% of accuracy. The interpretation results are guive by LIME Framework.
-The app receive a text from tweet (without #,@) and classifier the sentiment with positive, neutral or negative and the black-box (SVM) is
-explained with the words more relevants to classifier with LIME Framework
+app maked with flask, and a classifier SVM with 78% of accuracy. The interpretation results are guive by LIME Framework.
+The app receive a english text about covid from tweet (without #,@) and classifier the sentiment with positive, neutral or negative and the black-box (SVM) is
+explained with the words more relevants to classifier with LIME Framework. The app also run with text of sites about covid.
 
